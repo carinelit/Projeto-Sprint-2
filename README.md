@@ -1,24 +1,31 @@
-# Continuação Python Basico 
+# Projeto Sprint 2 - Análise Exploratória de Dados
 
-#Descrição
+## Objetivo
+- Analisar dados de streaming de música para identificar padrões de uso
+- A atividade dos usuários é diferente dependendo do dia da semana e da cidade
+- Aplicar técnicas de EDA para extrair insights de negócio
 
-O projeto, vai comparar as preferências musicais dos habitantes de Springfild e Shelbyville. Vamos estudar os dados de um serviço de streaming de música online para testar a hipótese apresentada abaixo e comparar o comportamento dos usuários dessas duas cidades.
+# Dataset 
+Projeto Bootcamp - Triple Ten - Sprint 2
 
-##Teste a hipótese:
+## Perguntas para Análise
+- Qual a quantidade de músicas tocadas em diferente dias da semana.
+- Qual cidade toca mais músicas.
 
-A atividade dos usuários é diferente dependendo do dia da semana e da cidade.
+## Ferramentas 
+- Python
+- Pandas
+- Matplotlib
+- Jupyter Notebook
 
-
-##Resultado 
-
+## Conclusão
 Observamos que Springfield teve muito mais atividade musicais em relação a Shelbyville:
-
-Springfield:
+    Springfield:
 Segunda: 15.740 músicas
 Quarta: 11.056 músicas
 Sexta: 15.945 músicas
 
-Shelbyville:
+    Shelbyville:
 Segunda: 5.614 músicas
 Quarta: 7.003 músicas
 Sexta: 5.895 músicas
